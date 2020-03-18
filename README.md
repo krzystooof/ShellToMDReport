@@ -2,8 +2,8 @@
 A simple bash script that gets runs .sh in specified folder and creates md file with code, arguments and output of these scirpts.
 
 ## example
-`./shell_to_mdreport.sh folder/ result.md`
-`folder/` contains 1 file named test.sh
+`./shell_to_mdreport.sh folder/ result.md`         
+`folder/` contains 1 file named `test.sh`
 ### Terminal output:
 ```
 folder/test.sh
