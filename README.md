@@ -24,7 +24,7 @@ exit 0
 fi
 ```
 Arguments: 
-`1` `22` `3` 
+`1` `22` `3`     
 Output:
 
 ```
