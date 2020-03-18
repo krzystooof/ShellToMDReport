@@ -3,14 +3,14 @@ A simple bash script that gets runs .sh in specified folder and creates md file 
 
 ## example
 `./shell_to_mdreport.sh folder/ result.md`
-folder/ contains 1 file named test.sh
-Terminal output:
+`folder/` contains 1 file named test.sh
+### Terminal output:
 ```
 folder/test.sh
 	Arguments (max 3): 
 1 22 3
 ```
-File (result.md) output:
+### File (result.md) output:
 # Automaticaly generated report by [krzystooof's ./shell_to_mdreport.sh](https://github.com/krzystooof/ShellToMDReport "krzystooof's ./shell_to_mdreport.sh")
 
 
